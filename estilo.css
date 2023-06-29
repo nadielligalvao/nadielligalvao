@@ -1,0 +1,158 @@
+﻿@charset	 "UTF-8";
+*{
+box-sizing:border-box;
+font-family: 'Robot', sans-serif;
+margin: 0;
+padding:0;	
+}
+
+
+body {
+	padding: 0 1rem;
+}
+
+header,
+.principal,
+.dicas,
+.objetivo,
+.apresentacao {
+	border-color: black;
+	border-style: solid;
+	border-width: 0 1px 1px 1px;
+	padding: 1.25rem;
+}
+
+#logoinicio {
+	display: block;
+	margin: 1rem auto;
+	
+}
+
+header nav {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr; 
+	padding-right: 1.25rem;
+	text-align: center;
+	
+}
+
+#one {
+	background-color: #1E2042;
+	color: white;
+	text-align: center;
+	padding-top: 0.5rem;
+	padding: 0.5rem;
+}
+
+#two {
+	background-color: #712A2A;
+	color: white;
+	text-align: center;
+	padding-top: 0.5rem;
+	padding: 0.5rem;
+}
+
+#lista1 {
+	padding: 0.2rem;
+}
+
+nav a {
+	color: black;
+	font-size: 15px;
+	padding: .5rem;
+	text-decoration: none;
+	text-align: center;
+}
+
+nav#lista a:hover {
+	color: #C0C0C0;
+}
+
+#objetivo {
+	padding-right: 0;
+	padding-bottom: 16rem;
+}
+
+#estudantes {
+	display: block;
+	margin: 1.25rem 0 0 auto;
+	max-width: 100%;
+	
+	
+}
+
+h1 {
+	font-size: 40px;
+	line-height: 105%;
+	text-align: center;
+}
+
+#destaqueone {
+	color: #A22D2D;
+	
+}
+
+#destaquetwo {
+	color: #0F175F;
+}
+
+#assunto {
+	display: flex;
+	width: 295px;
+	flex-direction: column;
+	justify-content: flex-end;
+	flex-shrink: 0;
+	color: #000;
+	text-align: justify;
+	font-size: 20px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	padding-right: 0.9rem;
+}
+
+
+#foto {
+	display: block;
+	max-width: 80%;	
+	margin: 1.0rem 2rem;
+}
+
+#quemsou {
+	display: flex;
+text-align: center;
+font-size: 15px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align:justify; 
+	
+}
+
+#final {
+	background-color:black;
+	color: white;
+	display: flex;
+	width: 328px;
+	font-size: 10px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0; 
+	padding-left:0.5rem;
+	padding: 0.5rem;
+	text-align: center;
+}
+
+#logofinal {
+	max-width: 20%;	
+	justify-content: center;
+	flex-shrink: 0; 
+	position: relative;
+	left: 120px;
+}
+
+#fim {
+	font-weight: bold;
+}
