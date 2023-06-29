@@ -77,7 +77,7 @@ nav#lista a:hover {
 #estudantes {
 	position: relative;
 	max-width: 100%;
-	left: 80px;
+	left: 50px;
 }
 
 h1 {
@@ -99,7 +99,7 @@ h1 {
 }
 
 #assunto {
-	margin-top: 0px;
+	margin-top: 20px;
 	display: flex;
 	justify-content: flex-end;
 	flex-shrink: 0; 
