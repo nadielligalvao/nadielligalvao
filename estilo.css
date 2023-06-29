@@ -138,7 +138,7 @@ text-align:justify;
 	justify-content: center;
 	flex-shrink: 0; 
 	padding-left:0.5rem;
-	padding: 0.5rem;
+	padding: 0.8rem;
 	text-align: center;
 }
 
@@ -147,7 +147,7 @@ text-align:justify;
 	justify-content: center;
 	flex-shrink: 0; 
 	position: relative;
-	left: 250px;
+	left: 350px;
 }
 
 #fim {
