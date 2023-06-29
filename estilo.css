@@ -143,11 +143,11 @@ text-align:justify;
 }
 
 #logofinal {
-	max-width: 20%;	
+	max-width: 15%;	
 	justify-content: center;
 	flex-shrink: 0; 
 	position: relative;
-	left: 350px;
+	left: 400px;
 }
 
 #fim {
