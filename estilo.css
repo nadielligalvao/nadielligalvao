@@ -58,7 +58,7 @@ header nav {
 
 nav a {
 	color: black;
-	font-size: 30px;
+	font-size: 40px;
 	padding: .5rem;
 	text-decoration: none;
 	text-align: center;
@@ -112,9 +112,9 @@ h1 {
 
 
 #foto {
-	display: block;
-	max-width: 80%;	
-	margin: 1.0rem 2rem;
+	position: relative;
+	max-width: 100%;
+	left: 150px;
 }
 
 #quemsou {
