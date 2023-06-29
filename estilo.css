@@ -74,9 +74,9 @@ nav#lista a:hover {
 }
 
 #estudantes {
-	display: block;
-	margin: 1.25rem 0 0 auto;
+	position: relative;
 	max-width: 100%;
+	left: 150px;
 	
 	
 }
