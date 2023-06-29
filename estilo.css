@@ -76,8 +76,8 @@ nav#lista a:hover {
 
 #estudantes {
 	position: relative;
-	max-width: 100%;
-	left: 150px;
+	max-width: 50%;
+	left: 100px;
 }
 
 h1 {
