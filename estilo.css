@@ -9,7 +9,7 @@ padding:0;
 
 body {
 	padding: 0 1rem;
-	background-color: #E6E6E6;
+	background-color: #E7E4E8;
 }
 
 header,
@@ -54,7 +54,7 @@ header nav {
 }
 
 #lista1 {
-	padding: 0.2rem;
+	padding: 0.5rem;
 }
 
 nav a {
