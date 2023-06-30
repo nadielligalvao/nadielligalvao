@@ -86,7 +86,7 @@ h1 {
 	line-height: 80%;
 	text-align: center;
 	max-width: 100%;
-	
+	margin-bottom: -80px;
 }
 
 #destaqueone {
@@ -99,7 +99,7 @@ h1 {
 }
 
 #assunto {
-	margin-top: 20px;
+	margin-top: 0px;
 	display: flex;
 	justify-content: flex-end;
 	flex-shrink: 0; 
