@@ -24,9 +24,11 @@ header,
 }
 
 #logoinicio {
-	display: block;
+	position: relative;
+	display: flex;
 	margin: 1rem auto;
 	width: 20%;
+	right: 100px;
 	
 }
 
@@ -208,9 +210,12 @@ text-align:justify;
 		align-items: center;
 		justify-content: space-between;
 	}
-	
+	#logoinicio {
+	align-items: center;
 }
 	
+	
+}
 	
 	
 	
