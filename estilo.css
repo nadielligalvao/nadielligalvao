@@ -154,3 +154,21 @@ text-align:justify;
 #fim {
 	font-weight: bold;
 }
+
+/*Responsividade*/
+
+@media screen and (min-width: 40rem){
+	header nav {
+	display: block;
+	text-align: center;
+	
+	}
+	
+	nav a {
+	color: black;
+	font-size: 30px;
+	}
+	
+	
+	
+}
