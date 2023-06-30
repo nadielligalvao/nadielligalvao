@@ -192,5 +192,11 @@ text-align:justify;
 	text-align: center;
 	
 }
+#estudantes {
+	position: relative;
+	width: 60%;
+	left: 600px;
+	
+}
 	
 }
