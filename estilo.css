@@ -30,7 +30,7 @@ header,
 }
 
 header nav {
-	display: grid;
+	display: block;
 	grid-template-columns: 1fr 1fr 1fr; 
 	padding-right: 1.25rem;
 	text-align: center;
@@ -206,7 +206,6 @@ text-align:justify;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		
 	}
 	
 }
