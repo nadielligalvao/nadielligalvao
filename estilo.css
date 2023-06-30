@@ -43,6 +43,7 @@ header nav {
 	text-align: center;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
+	margin-bottom: 10px;
 }
 
 #two {
@@ -51,12 +52,16 @@ header nav {
 	text-align: center;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
+	margin-bottom: 10px;
 }
 
 #lista1 {
-	padding: 0.5rem;
+	padding: 0.8rem;
 	display: grid;
+	list-style: none;
+	
 }
+
 
 nav a {
 	color: black;
@@ -183,7 +188,7 @@ text-align:justify;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
 	max-width: 1000px;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 	#two {
@@ -192,7 +197,7 @@ text-align:justify;
 	text-align: center;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 
