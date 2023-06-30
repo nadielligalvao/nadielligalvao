@@ -199,6 +199,20 @@ text-align:justify;
 	padding: 0.5rem;
 	font-size: 30px;
 }
+}
 
-
+@media screen and (min-width: 48rem) {
+	header div {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		
+	}
+	
+	
+	
+	
+	
+	
+	
 }
