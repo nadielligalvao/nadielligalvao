@@ -55,6 +55,7 @@ header nav {
 
 #lista1 {
 	padding: 0.5rem;
+	display: grid;
 }
 
 nav a {
@@ -161,7 +162,6 @@ text-align:justify;
 	header nav {
 	display: block;
 	text-align: center;
-	
 	}
 	
 	nav a {
@@ -192,5 +192,6 @@ text-align:justify;
 	padding: 0.5rem;
 	display: block;
 	text-align: center;
+	flex-direction: row;
 	
 }
