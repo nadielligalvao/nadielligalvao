@@ -27,7 +27,6 @@ header,
 	position: relative;
 	display: flex;
 	margin: 1rem auto;
-	
 }
 
 header nav {
@@ -199,6 +198,16 @@ text-align:justify;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
 	font-size: 30px;
+	}
+}
+	
+@media screen and (min-width: 72rem) {
+	.container {
+		display: flex;
+		
+	}
+	
+	
 }
 
 
