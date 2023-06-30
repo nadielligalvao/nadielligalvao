@@ -26,6 +26,7 @@ header,
 #logoinicio {
 	display: block;
 	margin: 1rem auto;
+	width: 80%;
 	
 }
 
@@ -65,7 +66,7 @@ header nav {
 
 nav a {
 	color: black;
-	font-size: 35px;
+	font-size: 30px;
 	padding: .5rem;
 	text-decoration: none;
 	text-align: center;
