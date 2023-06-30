@@ -204,9 +204,29 @@ text-align:justify;
 @media screen and (min-width: 72rem) {
 	.container {
 		display: flex;
+		align-items: center;
+		margin: 0 auto;
+		max-width: 60rem;
 		
 	}
-	
+	#estudantes {
+	position: relative;
+	max-width: 100%;
+	left: 250px;
+		
+	}
+	#assunto {
+	margin-top: 15px;
+	position: absolute;
+	color: #000;
+	text-align: left;
+	font-size: 30px;
+	font-family: Roboto;
+	font-style: normal;
+	left: 30px;
+	width: 600px;
+}
+
 	
 }
 
