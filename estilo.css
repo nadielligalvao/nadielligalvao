@@ -241,7 +241,7 @@ h1 {
 	#foto {
 	position: relative;
 	max-width: 100%;
-	left: 80px;
+	left: 300px;
 }
 	#quemsou {
 	position: relative;
@@ -249,8 +249,8 @@ h1 {
 	font-family: Roboto;
 	font-style: normal;
 	line-height: normal;
-	width: 800px;
-	left: 500px;
+	width: 560px;
+	left: 650px;
 	top: -300px;
 }
 	#logofinal {
