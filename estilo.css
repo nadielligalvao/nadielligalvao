@@ -10,6 +10,7 @@ padding:0;
 body {
 	padding: 0 1rem;
 	background-color: #E7E4E8;
+	 max-width: 150%;
 }
 
 header,
