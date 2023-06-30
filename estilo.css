@@ -175,18 +175,20 @@ text-align:justify;
 	text-align: center;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
+	width: 300px;
 
 }
 
-#two {
+	#two {
 	background-color: #712A2A;
 	color: white;
 	text-align: center;
 	padding-top: 0.5rem;
 	padding: 0.5rem;
+	width: 300px;
 }
 
-#lista1 {
+	#lista1 {
 	padding: 0.5rem;
 	display: block;
 	text-align: center;
