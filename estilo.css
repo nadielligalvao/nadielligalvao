@@ -237,7 +237,11 @@ text-align:justify;
 	left: 200px;
 	width: 450px;
 }
-
+	#foto {
+	position: relative;
+	max-width: 100%;
+	left: 50px;
+}
 	
 }
 
