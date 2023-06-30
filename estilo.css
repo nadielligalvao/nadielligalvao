@@ -252,7 +252,34 @@ h1 {
 	left: 500px;
 	top: -300px;
 }
-	
+	#logofinal {
+	max-width: 8%;
+	justify-content: center;
+	flex-shrink: 0; 
+	position: relative;
+	left: 10px;
+	top: 40px;
+}
+#final {
+	background-color:black;
+	color: white;
+	width: 1504px;
+	font-size: 15px;
+	max-height: 145px;
 }
 
-
+	#fim {
+	font-weight: bold;
+	position: relative;
+	text-align: left;
+	left: 160px;
+	top: -50px;
+	}
+	#fim2 {
+	position: relative;
+	text-align: left;
+	left: 160px;
+	top: -50px
+	}
+}
+	
